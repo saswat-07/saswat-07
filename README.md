@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 </tr>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Welcome to my page! </br> I'm Saswat, Fullstack developer from <img src="https://img.icons8.com/?size=20&id=esGVrxg9VCJ1&format=png&color=000000" align="center"/>  <b>Bhubaneswar, India</b>. 
-
-
-I'm a versatile **Software Developer** with a passion for creating innovative solutions for both mobile and web platforms.
+Welcome to my page! </br> I'm a versatile **Software Developer** from <img src="https://img.icons8.com/?size=20&id=esGVrxg9VCJ1&format=png&color=000000" align="center"/>  <b>Bhubaneswar, India</b>. 
+with a passion for creating innovative solutions for both mobile and web platforms.
 
 💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
 

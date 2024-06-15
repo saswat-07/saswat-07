@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 Welcome to my page! </br> I'm a versatile **Software Developer** from <img src="https://img.icons8.com/?size=20&id=esGVrxg9VCJ1&format=png&color=000000" align="center"/>  <b>Bhubaneswar, India</b>. 
 with a passion for creating innovative solutions for both mobile and web platforms.
 
-💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
 
+- 📫 How to reach me: saswatu.official@gmail.com
 ---
 <h3>Things I code with</h3>
 <p>
@@ -52,9 +52,8 @@ with a passion for creating innovative solutions for both mobile and web platfor
 ---
 <h3>You can find me on:</h3>
 <p><a href="https://x.com/UpadhyayaSaswat?t=1glPWFIRXY_cVaHX_uhLCQ&s=08" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/saswat-upadhyaya-87b11920a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:saswatu.official@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saswatu.official@gmail.com) -->
-
+<!-- <a href="mailto:saswatu.official@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 ---
